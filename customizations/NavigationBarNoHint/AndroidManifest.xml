@@ -3,7 +3,7 @@
  * Copyright (C) 2020 The LineageOS Project
 -->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-        package="org.lineageos.overlay.customization.navbar.nohint"
+        package="com.eunoiaos.overlay.customization.navbar.nohint"
         android:versionCode="1"
         android:versionName="1.0">
     <overlay android:targetPackage="android"
